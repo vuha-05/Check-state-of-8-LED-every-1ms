@@ -15,4 +15,4 @@ This project continuously monitors the on/off states of 8 LEDs (or 8 digital out
 # Tools
 - STM32CubeIDE
 - STM32CubeMX
-
+- Python (for GUI) 
